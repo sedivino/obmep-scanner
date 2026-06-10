@@ -279,7 +279,7 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações
 
 ## 👨‍💻 Autores
 
-Projeto desenvolvido como trabalho acadêmico na disciplina de **Interação Humano-Computador (IHC)** da **Universidade Federal de Goiás (UFG)**.
+Projeto desenvolvido por **Eduardo Divino**, professor da rede estadual de ensino do estado de Goiás.
 
 ---
 
